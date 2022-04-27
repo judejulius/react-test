@@ -1,0 +1,84 @@
+.overlay-box{
+    position: absolute;
+width: 552px;
+height: 480px;
+left: 1200px;
+top: 130px;
+
+background: #C4C4C4;
+opacity: 0.2;
+}
+.box{
+position: absolute;
+width: 172px;
+height: 174px;
+left: 1440px;
+top: 100px;
+
+background: url('../image1.png');
+/* opacity: 0.1; */
+}
+.phone-img{
+    position: absolute;
+width: 626px;
+height: 417px;
+left: 1000px;
+top: 162px;
+background: url('../image.jpg');
+mix-blend-mode: multiply;
+}
+.firstHeading{
+position: absolute;
+width: 123px;
+height: 24px;
+left: 128px;
+top: 242px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+}
+.secondHeading{
+position: absolute;
+width: 482px;
+height: 112px;
+left: 128px;
+top: 274px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+}
+.thirdHeading{
+    position: absolute;
+width: 390px;
+height: 72px;
+left: 128px;
+top: 402px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+
+color: #000000;
+
+}
+.firstbox{
+    position: absolute;
+    left: 200px;
+    top: -20px;
+}
+.section{
+    height: 100vh;
+    width: 100vw;
+}
