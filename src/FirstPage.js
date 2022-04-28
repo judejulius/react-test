@@ -5,6 +5,7 @@ export default function FirstPage() {
       <>
     <div class="container section">
   <div class="row">
+    <div class="alignment">
     <div class="col firstbox">
     <p class="firstHeading">Soul Remedi App</p>
     <div class="secondHeading">Making Feng Shui Accessible</div>
@@ -16,6 +17,8 @@ export default function FirstPage() {
       <div class="box"></div>
     </div>
   </div>
+      
+    </div>
 </div>
       </>
     

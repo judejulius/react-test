@@ -2,11 +2,12 @@
     position: absolute;
 width: 217px;
 height: 42px;
-left: 330px;
+left: 124px;
 top: 794px;
 
 font-family: 'Roboto';
 font-style: normal;
+font-size: 36px;
 font-weight: 500;
 font-size: 36px;
 line-height: 42px;
@@ -16,4 +17,78 @@ color: #000000;
 }
 .below-header{
 margin-top: -00px;
+}
+.number1{
+    position: absolute;
+width: 73px;
+height: 75px;
+left: 114px;
+top: 916px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #000000;
+
+opacity: 0.1;
+}
+.number2{
+    position: absolute;
+width: 73px;
+height: 75px;
+left:  408px;;
+top: 916px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #000000;
+
+opacity: 0.1;
+}.number3{
+    position: absolute;
+width: 73px;
+height: 75px;
+left: 743px;
+top: 916px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #000000;
+
+opacity: 0.1;
+}.number4{
+    position: absolute;
+width: 73px;
+height: 75px;
+left: 1068px;
+top: 916px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #000000;
+
+opacity: 0.1;
 }
