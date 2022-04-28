@@ -15,7 +15,7 @@ height: 174px;
 left: 1240px;
 top: 100px;
 
-background: url('../image1.png');
+background: url('../Images/image1.png');
 /* opacity: 0.1; */
 }
 .phone-img{
@@ -24,7 +24,7 @@ width: 626px;
 height: 417px;
 left: 800px;
 top: 162px;
-background: url('../image.jpg');
+background: url('../Images/image.jpg');
 mix-blend-mode: multiply;
 }
 .firstHeadings{

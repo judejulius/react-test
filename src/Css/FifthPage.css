@@ -310,14 +310,13 @@ opacity: 0.2;
     position: absolute;
     width: 160px;
     height: 48px;
-    right: 200px;
-    top: 450px;
-    
+    right: 51px;
+    top: 300px;
     background: #C4C4C4;
   }
   .app-form{
       position: absolute;
-      top: 220px;
+      top: 520px;
       width: 500px;
   }
   .app-form-control::placeholder{
@@ -332,4 +331,9 @@ opacity: 0.2;
   input::placeholder{
       color: white;
       opacity: 1;
+  }
+  .screen-body-item{
+    position: absolute;
+    top: 180px;
+    width: 670px;
   }

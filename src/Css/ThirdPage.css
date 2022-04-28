@@ -5,7 +5,7 @@ height: 490px;
 left: 110px;
 top: 1242px;
 
-background: url('../iphone.png');
+background: url('../Images/iphone.png');
 
 }
 .iphone-image2{
@@ -15,7 +15,7 @@ height: 480px;
 left: 415px;
 top: 1328px;
 
-background: url('../iphone.png');
+background: url('../Images/iphone.png');
 }
 .overlay{
 position: absolute;

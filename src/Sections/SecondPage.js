@@ -1,5 +1,5 @@
 import React from 'react'
-import './Css/SecondPage.css'
+import '../Css/SecondPage.css'
 export default function SecondPage() {
   return (
     <>

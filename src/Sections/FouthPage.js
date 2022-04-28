@@ -1,5 +1,5 @@
 import React from 'react'
-import './Css/FouthPage.css'
+import '../Css/FouthPage.css'
 export default function FouthPage() {
   return (
     <>

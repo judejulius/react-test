@@ -1,9 +1,9 @@
 import Navigation from './Navigation'
 import FirstPage from './Sections/FirstPage'
-import SecondPage from './SecondPage'
-import ThirdPage from './ThirdPage'
-import FouthPage from './FouthPage'
-import FifthPage from './FifthPage'
+import SecondPage from './Sections/SecondPage'
+import ThirdPage from './Sections/ThirdPage'
+import FouthPage from './Sections/FouthPage'
+import FifthPage from './Sections/FifthPage'
 
 function App() {
   return (

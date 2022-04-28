@@ -1,5 +1,5 @@
 import React from 'react'
-import './Css/FirstPage.css'
+import '../Css/FirstPage.css'
 export default function FirstPage() {
   return (
       <>

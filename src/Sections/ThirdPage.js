@@ -1,5 +1,5 @@
 import React from 'react'
-import './Css/ThirdPage.css'
+import '../Css/ThirdPage.css'
 export default function ThirdPage() {
   return (
         <>

@@ -1,5 +1,5 @@
 import React from 'react'
-import './Css/FifthPage.css'
+import '../Css/FifthPage.css'
 
 export default function FifthPage() {
   return (
