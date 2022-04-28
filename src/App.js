@@ -1,6 +1,9 @@
 import Navigation from './Navigation'
 import FirstPage from './FirstPage'
 import SecondPage from './SecondPage'
+import ThirdPage from './ThirdPage'
+import FouthPage from './FouthPage'
+import FifthPage from './FifthPage'
 
 function App() {
   return (
@@ -8,7 +11,9 @@ function App() {
    <Navigation/>
    <FirstPage/>
    <SecondPage/>
-
+   <ThirdPage/>
+   <FouthPage/>
+   <FifthPage/>
    </>
   );
 }

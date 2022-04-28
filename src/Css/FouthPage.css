@@ -1,0 +1,75 @@
+
+.image2{
+    position: absolute;
+width: 241.19px;
+height: 480px;
+left: 1076px;
+top: -100px;
+
+background: url('../iphone.png');
+}
+.image1{
+
+    position: absolute;
+    width: 241.19px;
+    height: 480px;
+    left: 773px;
+    top: 50px;
+    
+    background: url('../iphone.png');
+}
+.background{
+  
+position: absolute;
+width: 1520px;
+height: 592px;
+left: -2px;
+top: 1986px;
+
+background: #C4C4C4;
+
+}
+.fouthPage-header{
+    position: absolute;
+width: 482px;
+height: 56px;
+left: 126px;
+top: 200px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+}
+.fouthPage-paragraph{
+    
+position: absolute;
+width: 497px;
+height: 72px;
+left: 126px;
+top: 260px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+
+color: #000000;
+}
+.fouthPage-Button{
+    position: absolute;
+width: 160px;
+height: 48px;
+left: 126px;
+top: 360px;
+
+background: #373737;
+border-radius: 6px;
+color: white;
+}

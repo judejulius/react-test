@@ -1,0 +1,25 @@
+.fifthPage-background{
+    position: absolute;
+width: 1518px;
+height: 720px;
+left: 0px;
+top: 2578px;
+overflow: hidden;
+
+background: #323232;
+}
+.fifthPage-header{
+    position: absolute;
+    width: 194px;
+    height: 42px;
+    left: 144px;
+    top: 2726px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #FFFFFF;
+}

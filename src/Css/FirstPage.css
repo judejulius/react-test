@@ -2,7 +2,7 @@
     position: absolute;
 width: 552px;
 height: 480px;
-left: 1000px;
+left: 967px;
 top: 130px;
 
 background: #C4C4C4;
@@ -27,7 +27,7 @@ top: 162px;
 background: url('../image.jpg');
 mix-blend-mode: multiply;
 }
-.firstHeading{
+.firstHeadings{
 position: absolute;
 width: 123px;
 height: 24px;
