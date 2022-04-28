@@ -1,5 +1,5 @@
 import Navigation from './Navigation'
-import FirstPage from './FirstPage'
+import FirstPage from './Sections/FirstPage'
 import SecondPage from './SecondPage'
 import ThirdPage from './ThirdPage'
 import FouthPage from './FouthPage'
